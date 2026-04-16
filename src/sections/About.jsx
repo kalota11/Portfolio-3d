@@ -16,12 +16,10 @@ const About = () => {
     <section className="c-space my-10 sm:my-16 md:my-20 px-4" id="about">
 
       <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-4 sm:gap-5 h-full">
-
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container p-4 sm:p-6">
             <img src="assets/grid1.png" alt="grid-1"
               className="w-full h-[200px] sm:h-[260px] object-contain" />
-
             <div>
               <p className="grid-headtext text-lg sm:text-xl md:text-2xl">
                 Hi, I’m Ebad
